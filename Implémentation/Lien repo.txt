@@ -1,0 +1,2 @@
+Partie Front-End: https://github.com/itzmohamed007/MyKinder
+Partie Back-End: https://github.com/itzmohamed007/MyKinder_API
